@@ -1,0 +1,18 @@
+Fri Dec 13 17:18:28 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.1580.
+
+Fri Dec 13 17:41:14 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0840.
+
+Fri Dec 13 17:49:56 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0720.
+
+Fri Dec 13 17:50:36 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0720.
+
+Fri Dec 13 17:51:29 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0720.
+
+Fri Dec 13 17:51:46 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0720.
+
